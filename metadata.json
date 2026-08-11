@@ -1,0 +1,6 @@
+{
+  "name": "BandTune",
+  "description": "Professional Android Band Tuner & Metronome for Marching and Concert Bands",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
